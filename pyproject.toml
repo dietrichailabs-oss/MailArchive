@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mailarchive"
+version = "1.0.0-rc1"
+description = "Local-first Microsoft 365 email archival utility"
+requires-python = ">=3.11"
+license = "LicenseRef-Dietrich-AI-Labs-Freeware-1.0"
+license-files = ["LICENSE.txt"]
+dependencies = [
+  "msal>=1.30,<2",
+  "requests>=2.32,<3",
+]
+
+[project.scripts]
+mailarchive = "mailarchive.app:main"
+mailarchive-viewer = "mailarchive.viewer.launcher:main"
+
+[tool.setuptools.packages.find]
+include = ["mailarchive*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

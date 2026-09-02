@@ -1,0 +1,172 @@
+DIETRICH AI LABS MAILARCHIVE FREEWARE LICENSE AGREEMENT
+Version 1.0 - September 2026
+
+Copyright (c) 2026 Dietrich AI Labs. All rights reserved.
+
+IMPORTANT: READ THIS LICENSE BEFORE INSTALLING OR USING MAILARCHIVE.
+BY INSTALLING, COPYING, OR USING MAILARCHIVE, YOU AGREE TO THIS LICENSE.
+IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. DEFINITIONS
+
+"Dietrich AI Labs" means the publisher and copyright owner of MailArchive.
+
+"Software" means the MailArchive application, Open Archive viewer, installer,
+updates, documentation, and other first-party files distributed by Dietrich AI
+Labs under this License. Software does not include Third-Party Components or
+User Data.
+
+"Third-Party Components" means software, libraries, notices, or other materials
+owned by third parties and included with or used by the Software.
+
+"User Data" means email messages, archives, attachments, reports, databases,
+configuration data, and other content created, selected, imported, or stored by
+the user through the Software.
+
+2. FREEWARE LICENSE GRANT
+
+Subject to this License, Dietrich AI Labs grants you a non-exclusive,
+non-transferable license to install and use the Software free of charge for
+personal, educational, nonprofit, governmental, or commercial purposes.
+
+You may install the Software on multiple computers that you own, control, or
+are authorized to administer. Organizations may make reasonable internal
+copies for use by their personnel. You may also make reasonable backup copies
+of the Software for your own lawful use.
+
+This License grants a right to use the Software. It does not transfer ownership
+of the Software or any intellectual property rights in it.
+
+3. PROPRIETARY SOFTWARE
+
+MailArchive is proprietary freeware. It is not open-source software. Except for
+the rights expressly granted by this License, Dietrich AI Labs retains all
+right, title, and interest in and to the Software, including all copyrights,
+trade secrets, trademarks, and other intellectual property rights.
+
+4. RESTRICTIONS
+
+Except where applicable law expressly permits otherwise, you may not:
+
+(a) sell, rent, lease, sublicense, license for a fee, or otherwise commercially
+    distribute the Software itself;
+(b) publicly redistribute the Software, installer, or modified copies without
+    prior written permission from Dietrich AI Labs;
+(c) modify, adapt, translate, or create derivative works of the Software for
+    public distribution;
+(d) reverse engineer, decompile, disassemble, or attempt to derive the source
+    code of the Software, except to the limited extent that applicable law
+    expressly permits such activity despite this restriction;
+(e) remove, alter, conceal, or misrepresent copyright, trademark, license,
+    attribution, security, or ownership notices;
+(f) bypass or defeat technical restrictions, security controls, licensing
+    checks, integrity checks, or update protections; or
+(g) represent the Software as your own product or imply sponsorship,
+    certification, or endorsement by Dietrich AI Labs where none exists.
+
+Nothing in this License prohibits you from sharing a link to an official
+Dietrich AI Labs distribution location for MailArchive.
+
+5. USER DATA AND ARCHIVES
+
+Dietrich AI Labs does not acquire ownership of User Data merely because it is
+processed, viewed, archived, indexed, or stored using the Software. As between
+you and Dietrich AI Labs, you retain your rights in your User Data.
+
+MailArchive archives may contain sensitive or confidential information. You are
+responsible for deciding where archives are stored, controlling access to them,
+maintaining appropriate backups, and complying with laws, policies, contracts,
+and retention requirements that apply to your data.
+
+Uninstalling the Software does not grant Dietrich AI Labs any right to delete
+or take ownership of user-created archives.
+
+6. THIRD-PARTY COMPONENTS
+
+Third-Party Components are licensed under their own terms. Those terms govern
+the applicable Third-Party Components and are not replaced by this License.
+Third-party notices and license texts distributed with MailArchive form part of
+the Software distribution and must not be removed when redistribution is
+separately authorized.
+
+7. UPDATES AND CHANGES
+
+Dietrich AI Labs may provide updates, upgrades, fixes, or replacement versions
+of the Software. Unless separate terms are presented with an update, this
+License applies to that update. Dietrich AI Labs may discontinue a version or
+require an update when reasonably necessary for security, compatibility, or
+reliability.
+
+8. NO SUPPORT OBLIGATION
+
+The Software is provided free of charge. Unless Dietrich AI Labs separately
+agrees in writing, this License does not require Dietrich AI Labs to provide
+technical support, maintenance, custom development, service-level commitments,
+or continued availability of any particular version.
+
+9. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND,
+WHETHER EXPRESS, IMPLIED, OR STATUTORY. DIETRICH AI LABS DISCLAIMS, TO THE
+MAXIMUM EXTENT PERMITTED BY LAW, IMPLIED WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND ANY WARRANTY
+THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR SUITABLE FOR A
+PARTICULAR LEGAL, REGULATORY, RECORDS-RETENTION, BACKUP, OR DISASTER-RECOVERY
+REQUIREMENT.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DIETRICH AI LABS WILL NOT
+BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR
+CONSEQUENTIAL DAMAGES, OR FOR LOSS OF PROFITS, REVENUE, BUSINESS, GOODWILL,
+DATA, EMAIL, ARCHIVES, OR USE, ARISING OUT OF OR RELATED TO THE SOFTWARE OR
+THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL AGGREGATE
+LIABILITY OF DIETRICH AI LABS ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS
+LICENSE WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID DIETRICH AI LABS
+FOR THE SOFTWARE DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING RISE TO THE
+CLAIM OR (B) TEN U.S. DOLLARS (US $10.00). BECAUSE MAILARCHIVE IS DISTRIBUTED
+AS FREEWARE, THE AMOUNT PAID FOR THE SOFTWARE WILL NORMALLY BE ZERO.
+
+Some jurisdictions do not allow certain warranty exclusions or liability
+limitations, so some of the above terms may not apply to you.
+
+11. COMPLIANCE WITH LAW
+
+You are responsible for using the Software lawfully, including complying with
+applicable privacy, data-protection, employment, records-retention, export,
+email-access, and computer-use laws and with any obligations you owe to third
+parties.
+
+12. TERMINATION
+
+This License terminates automatically if you materially violate its terms and
+fail to cure the violation where applicable law requires an opportunity to
+cure. Upon termination, you must stop using and delete copies of the Software
+that are subject to the terminated license. Termination does not require you to
+delete User Data or user-created MailArchive archives.
+
+Sections concerning ownership, User Data, Third-Party Components, warranty
+disclaimers, liability limitations, and other provisions that by their nature
+should survive will survive termination.
+
+13. SEVERABILITY AND WAIVER
+
+If any provision of this License is held unenforceable, it will be enforced to
+the maximum extent permitted and the remaining provisions will remain in
+effect. A failure by Dietrich AI Labs to enforce a provision is not a waiver of
+that provision or any other provision.
+
+14. ENTIRE LICENSE
+
+This License is the entire agreement between you and Dietrich AI Labs regarding
+the first-party Software unless Dietrich AI Labs and you enter into a separate
+written agreement covering the same subject matter. Third-Party Components
+remain governed by their respective licenses.
+
+SPDX-style first-party license identifier:
+LicenseRef-Dietrich-AI-Labs-Freeware-1.0
+
+END OF LICENSE
