@@ -1,6 +1,6 @@
 param(
-    [string]$Version = "1.0.0-rc1",
-    [string]$BuildIdentity = "2026.09.02-rc1",
+    [string]$Version = "1.0.0-rc2",
+    [string]$BuildIdentity = "2026.09.02-rc2",
     [string]$ClientId = $env:MAILARCHIVE_CLIENT_ID,
     [string]$FirstPartyLicensePath = $env:MAILARCHIVE_FIRST_PARTY_LICENSE_PATH,
     [string]$FirstPartyLicenseExpression = $env:MAILARCHIVE_FIRST_PARTY_LICENSE_EXPRESSION,

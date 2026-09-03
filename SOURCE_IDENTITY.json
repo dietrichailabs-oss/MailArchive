@@ -1,10 +1,10 @@
 {
   "product": "MailArchive",
-  "version": "1.0.0-rc1",
-  "source_commit": "9b74fca5743688f56756d7c68acba97dae1b1bbf",
-  "source_tree": "c23b628e9c8de767d6d27f5f3aacb168837abedd",
+  "version": "1.0.0-rc2",
+  "source_commit": "e14f09e5c5468c50761a217bc53c0505387e1331",
+  "source_tree": "57de5eaca8dc0aa669582153364cb154b780f7f3",
   "publication_strategy": "allowlisted clean-history snapshot",
   "supported_platform": "Windows 11 x64",
-  "public_package": "MailArchive_1.0.0-rc1_Windows11_x64_Public.zip",
-  "public_package_sha256": "D295B64191EEAFD8B01E45B7BE320DF04F4347AEB92E341ED88319DD46E16542"
+  "public_package": "MailArchive_1.0.0-rc2_Windows11_x64_Public.zip",
+  "public_package_sha256": "12374C744CCECF5C06A5DD5182759E4977305F44602F27882EEBBE836B0D682C"
 }

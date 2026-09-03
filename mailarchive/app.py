@@ -8,7 +8,7 @@ import sys
 from mailarchive.archive.manager import ArchiveRegistry
 from mailarchive.configuration.settings import SettingsStore, application_data_dir
 from mailarchive.runtime.microsoft_session import MicrosoftProviderSession, load_client_id
-from mailarchive.ui.main_window.app import MailArchiveApp
+from mailarchive.ui.main_window.rc2 import RC2MailArchiveApp
 
 
 def resource_dir() -> Path:
@@ -26,8 +26,8 @@ def runtime_self_test() -> None:
         marker = b'MailArchive-DPAPI-self-test'
         if unprotect(protect(marker)) != marker:
             raise RuntimeError('Windows DPAPI roundtrip failed')
-    # Import the full UI module without opening a window, proving packaging did not omit Tk modules.
-    from mailarchive.ui.main_window import app as _ui  # noqa: F401
+    # Import the full RC2 UI module without opening a window, proving packaging did not omit Tk modules.
+    from mailarchive.ui.main_window import rc2 as _ui  # noqa: F401
 
 
 def main(argv=None) -> int:
@@ -44,7 +44,7 @@ def main(argv=None) -> int:
     session = MicrosoftProviderSession.create(client_id, data / 'auth.cache.dpapi')
     settings = SettingsStore(data / 'settings.json')
     registry = ArchiveRegistry(data / 'archives.json')
-    app = MailArchiveApp(session, settings, registry)
+    app = RC2MailArchiveApp(session, settings, registry)
     app.mainloop()
     return 0
 

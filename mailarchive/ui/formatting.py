@@ -11,9 +11,14 @@ def format_bytes(value: int | None) -> str:
         size /= 1024
 
 
+def _display_date(value, fallback: str) -> str:
+    from mailarchive.ui.date_ranges import format_user_date
+    return format_user_date(value, empty=fallback)
+
+
 def cleanup_confirmation_text(plan) -> str:
-    start = plan.date_start or 'earliest available'
-    end = plan.date_end or 'latest available'
+    start = _display_date(plan.date_start, 'earliest available')
+    end = _display_date(plan.date_end, 'latest available')
     folders = ', '.join(plan.folders) if plan.folders else '(not recorded)'
     return (
         f'Verified messages eligible: {plan.verified_eligible_count}\n'
@@ -42,8 +47,8 @@ def archive_manager_label(item) -> str:
     state = '' if item.get('exists') else ' [missing]'
     count = item.get('verified_count', item.get('message_count', '?'))
     date_range = item.get('selected_date_range') or {}
-    start = date_range.get('start') or 'earliest'
-    end = date_range.get('end') or 'latest'
+    start = _display_date(date_range.get('start'), 'earliest')
+    end = _display_date(date_range.get('end'), 'latest')
     size = format_bytes(item.get('archive_size')) if item.get('archive_size') is not None else 'Unknown size'
     created = str(item.get('archive_creation_timestamp') or 'Unknown')
     last_opened = str(item.get('last_opened') or 'Never')

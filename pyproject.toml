@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mailarchive"
-version = "1.0.0-rc1"
+version = "1.0.0-rc2"
 description = "Local-first Microsoft 365 email archival utility"
 requires-python = ">=3.11"
 license = "LicenseRef-Dietrich-AI-Labs-Freeware-1.0"
