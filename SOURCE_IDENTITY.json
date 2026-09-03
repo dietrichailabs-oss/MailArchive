@@ -1,0 +1,10 @@
+{
+  "product": "MailArchive",
+  "version": "1.0.0-rc6",
+  "build": "2026.09.03-rc6",
+  "private_repository": "dietrichailabs-oss/Mail-Archive",
+  "source_commit": "a5abc7a2b5f1a36eef560ee35b052ba19465a336",
+  "source_tree": "e0739d7d426e4358a1d9383122665bcff766da49",
+  "publication_strategy": "Allowlisted clean public mirror; private Engineering and QA history excluded",
+  "generated_utc": "2026-09-03T18:57:54.6495463Z"
+}
