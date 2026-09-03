@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+<title id="title">MailArchive — local-first Microsoft 365 email archival</title>
+<desc id="desc">Dark Dietrich AI Labs product banner with mail, archive, search and verification imagery.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".55" stop-color="#071427"/><stop offset="1" stop-color="#061d31"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#263a56"/><stop offset=".5" stop-color="#10233c"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+  <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset=".46" stop-color="#dbeafe"/><stop offset=".55" stop-color="#67e8f9"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1500" height="500" rx="28" fill="url(#bg)"/>
+<ellipse cx="1250" cy="310" rx="280" ry="190" fill="#0284c7" opacity=".10" filter="url(#soft)"/>
+<ellipse cx="300" cy="420" rx="430" ry="120" fill="#06b6d4" opacity=".06" filter="url(#soft)"/>
+<g opacity=".14" stroke="#38bdf8" stroke-width="1">
+  <path d="M0 410 C210 330 310 485 520 400 S850 340 1040 435 1300 335 1500 390" fill="none"/>
+  <path d="M0 440 C240 355 330 500 560 425 S900 375 1100 455 1340 370 1500 420" fill="none"/>
+  <path d="M760 70h620M790 105h570M850 140h480" opacity=".35"/>
+  <path d="M990 40v420M1040 40v420M1090 40v420M1140 40v420M1190 40v420M1240 40v420M1290 40v420M1340 40v420" opacity=".22"/>
+</g>
+<g transform="translate(55 116)">
+  <rect x="0" y="0" width="170" height="170" rx="28" fill="#07111f" stroke="#64748b" stroke-width="2"/>
+  <rect x="14" y="14" width="142" height="142" rx="24" fill="url(#metal)" opacity=".95"/>
+  <rect x="38" y="49" width="94" height="68" rx="11" fill="#081526" stroke="#38bdf8" stroke-width="4" filter="url(#glow)"/>
+  <path d="M42 54l43 36 43-36" fill="none" stroke="#a5f3fc" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 112l32-30M127 112L96 82" fill="none" stroke="#0ea5e9" stroke-width="3"/>
+</g>
+<g transform="translate(270 120)">
+  <text x="0" y="92" fill="url(#titleGrad)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="92" font-weight="650" letter-spacing="-3">MailArchive</text>
+  <rect x="3" y="112" width="110" height="4" rx="2" fill="url(#cyan)"/>
+  <text x="0" y="158" fill="#cbd5e1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" letter-spacing="1">Local-first Microsoft 365 email archival for Windows 11</text>
+  <g transform="translate(0 195)">
+    <path d="M19 2l17 7v14c0 15-10 26-17 30C12 49 2 38 2 23V9z" fill="#061827" stroke="#22d3ee" stroke-width="3"/>
+    <path d="M11 26l6 6 12-14" fill="none" stroke="#67e8f9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="55" y="35" fill="#e2e8f0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27">Preserve first.</text>
+    <text x="230" y="35" fill="#22d3ee" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="27" font-weight="600">Verify locally.</text>
+  </g>
+</g>
+<g transform="translate(1025 150)">
+  <g opacity=".8">
+    <rect x="85" y="-72" width="265" height="118" rx="14" fill="#0d2038" stroke="#60a5fa" transform="rotate(7 85 -72)"/>
+    <rect x="55" y="-48" width="278" height="122" rx="14" fill="#102642" stroke="#60a5fa" transform="rotate(4 55 -48)"/>
+    <rect x="26" y="-22" width="292" height="124" rx="14" fill="#132c4b" stroke="#7dd3fc"/>
+    <rect x="0" y="10" width="305" height="126" rx="14" fill="#173453" stroke="#7dd3fc"/>
+    <path d="M28 45h50l28 22 28-22h40" fill="none" stroke="#67e8f9" stroke-width="3"/>
+    <circle cx="260" cy="46" r="6" fill="#38bdf8" filter="url(#glow)"/>
+    <path d="M153 57h76M153 78h92" stroke="#94a3b8" stroke-width="5" stroke-linecap="round" opacity=".6"/>
+  </g>
+  <path d="M-18 112h348l-20 180a22 22 0 0 1-22 20H25a22 22 0 0 1-22-20z" fill="url(#metal)" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M-18 112h102l21 32h105l22-32h98l-8 63H-11z" fill="#203956" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="60" y="220" width="116" height="58" rx="10" fill="#071827" stroke="#67e8f9" stroke-width="3" filter="url(#glow)"/>
+  <path d="M78 232h37l10 11h33v24H78z" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linejoin="round"/>
+</g>
+<g transform="translate(1350 252)">
+  <path d="M52 0l48 20v42c0 43-27 76-48 88C31 138 4 105 4 62V20z" fill="#0a2037" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M25 72l18 18 36-43" fill="none" stroke="#67e8f9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+</g>
+<g transform="translate(930 397)">
+  <rect width="430" height="58" rx="29" fill="#07111f" stroke="#64748b" stroke-width="2" opacity=".96"/>
+  <circle cx="36" cy="28" r="13" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M46 38l11 11" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+  <text x="76" y="37" fill="#94a3b8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Search archived mail…</text>
+</g>
+<text x="1450" y="42" text-anchor="end" fill="#64748b" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" letter-spacing="3">DIETRICH AI LABS</text>
+</svg>

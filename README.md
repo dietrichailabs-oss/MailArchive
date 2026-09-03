@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mailarchive-banner.jpg" alt="MailArchive — local-first Microsoft 365 email archival for Windows 11" width="100%">
+  <img src="assets/mailarchive-banner.svg" alt="MailArchive — local-first Microsoft 365 email archival for Windows 11" width="100%">
 </p>
 
 <div align="center">
